@@ -12,7 +12,7 @@ const Menu = () => {
       <div className="container max-w-lg mx-auto px-4 py-12">
         <div className="space-y-8 text-center">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-pink-500 to-rose-500 text-transparent bg-clip-text">
-            Social Credit System 字体字
+            Halo and Horn
           </h1>
 
           <Card className="p-6 bg-white/95 backdrop-blur-sm">
